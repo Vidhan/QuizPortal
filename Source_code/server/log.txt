@@ -1,0 +1,24 @@
+Mon Apr 16 02:25:22 2012
+	New user with id 1 registered
+
+Mon Apr 16 02:26:10 2012
+	User with id 1 logged in
+
+Mon Apr 16 02:26:39 2012
+	New user with id 2 registered
+
+Mon Apr 16 02:28:04 2012
+	User with id 2 logged in
+
+Mon Apr 16 02:28:13 2012
+	User with id 2 took the quiz
+
+Mon Apr 16 02:28:36 2012
+	User with id 1 took the quiz
+
+Mon Apr 16 02:31:19 2012
+	User with id 1 logged out
+
+Mon Apr 16 02:34:25 2012
+	User with id 2 logged out
+

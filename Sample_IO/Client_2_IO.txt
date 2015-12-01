@@ -1,0 +1,172 @@
+vipul@ubuntu:~/Project/client$ ./iqclient
+
+
+
+Press 'e' if you are existing user.......
+Press 'n' if you are a new user..........
+n
+Enter the three digit password : 234
+Press 'a' to add your information...........
+   a
+
+
+Enter your name : Vidhan
+
+Enter the age : 20
+
+Enter the college : DA-IICT
+
+Enter the city :Gandhinagar
+*Vidhan	20	DA-IICT	Gandhinagar
+
+
+Name of the user: Vidhan
+
+
+
+
+		Congratulations you have been successfully added to the Quiz Portal
+					enjoy	:)
+
+		Please log in back with your userid and password to continue :)
+
+
+
+		Your user id is: 2    Note it down for future login
+
+vipul@ubuntu:~/Project/client$ ./iqclient
+
+Press 'e' if you are existing user.......
+Press 'n' if you are a new user..........
+e
+
+Enter your id : 2
+
+Enter your password : 234
+password matched
+
+
+
+
+				Welcome To The Quiz Portal
+
+
+
+
+
+
+
+Press s to start the Quiz
+Press i to view friend's score................
+Press t to view the topscore................
+Press m to send message to a friend.........................
+Press r to read message.........................
+Press x to exit...................................
+Enter your choice : s
+
+The quiz has five multiple choice questions with 4 options in each, All questions are compulsory
+
+Que.1
+	The day before the day before yesterday is three days after Saturday, What day is today?
+	a) Mon	b) Tues
+	c) Wed	d) Fri
+	Answer: d
+
+
+Que.2
+	Which should be the next number?
+	1,3,6,10,15
+	a) 8	b) 11
+	c) 24	d) 21
+	Answer: d
+
+
+Que.3
+	Library is to Book as Book is to
+	a) Page	b) Copy
+	c) Binding	d) Cover
+	Answer: a
+
+
+Que.4
+	If 10 people shake hands with each other, how many handshakes will be there in total?
+	a) 100	b) 20
+	c) 45	d) 50
+	Answer: c
+
+
+Que.5
+	Rearange the following letters to make a word and choose the category in which it fits
+	RAPETEKA
+	a) City	b) Fruit
+	c) Bird	d) Vegetable
+	Answer: c
+
+
+		The quiz is completed
+		The results are:5
+
+
+
+Press s to start the Quiz
+Press i to view friend's score................
+Press t to view the topscore................
+Press m to send message to a friend.........................
+Press r to read message.........................
+Press x to exit...................................
+Enter your choice : r
+1 : Hi...How are you??
+
+
+
+Press s to start the Quiz
+Press i to view friend's score................
+Press t to view the topscore................
+Press m to send message to a friend.........................
+Press r to read message.........................
+Press x to exit...................................
+Enter your choice : m
+Enter the id of your friend : 1
+Enter what's on ur mind : 
+I'm Fine...:)
+
+
+
+Press s to start the Quiz
+Press i to view friend's score................
+Press t to view the topscore................
+Press m to send message to a friend.........................
+Press r to read message.........................
+Press x to exit...................................
+Enter your choice : i
+
+
+Enter the ID :2
+Id	Score
+2	5	
+
+
+
+Press s to start the Quiz
+Press i to view friend's score................
+Press t to view the topscore................
+Press m to send message to a friend.........................
+Press r to read message.........................
+Press x to exit...................................
+Enter your choice : t
+
+
+Top Scorer's ID: 2	Top Score: 5
+
+
+
+
+Press s to start the Quiz
+Press i to view friend's score................
+Press t to view the topscore................
+Press m to send message to a friend.........................
+Press r to read message.........................
+Press x to exit...................................
+Enter your choice : x
+
+vipul@ubuntu:~/Project/client$ 
